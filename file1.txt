@@ -5,4 +5,8 @@ qq
 ssdd
 as
 qqqqqqqqqqqqqqqqbibibiib
+<<<<<<< HEAD
 one more lineeee
+=======
+line from user1
+>>>>>>> b73fb55dba189a166ceb154351a9dcb678dc3c5b
