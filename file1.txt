@@ -1,10 +1,7 @@
-hi!
+another line from user1
 bb
 qq
 qq
 ssdd
 as
 qqqqqqqqqqqqqqqqbibibiib
-line from user1
-hi from branch master
-
